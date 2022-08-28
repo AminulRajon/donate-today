@@ -126,3 +126,7 @@ footer{
     text-align: left;
     background-color: rgba(0, 0, 0, 0.7);
 }
+#quote{
+    height: auto;
+    width: 100%;
+}
